@@ -1,1 +1,1 @@
-# A test for three generation models: VAE, GAN and Stable Diffusion Model likes
+# A test for three kind of generation models: VAE, GANs and DDPMs
